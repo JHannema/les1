@@ -14,6 +14,6 @@ public class bar extends foo {
     private final int mieuw = getKampioenschappen() + 1;
 
     public int getMieuw() { 
-        return mieuw; /*Comment added en meer ...*/
+        return mieuw; /*Comment added en meer ... en nog meer*/
     }
 }
